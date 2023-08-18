@@ -1,2 +1,1 @@
-# MH-100K
-Dataset MH-100K
+# The MH-100K Dataset
