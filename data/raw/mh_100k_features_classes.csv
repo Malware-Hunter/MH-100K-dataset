@@ -1,0 +1,10 @@
+index,features
+0,SHA256
+1,NOME
+2,PACOTE
+3,API_MIN
+4,API
+18637,vt_detection
+18638,CLASS
+22328,VT_Malware_Deteccao
+22329,AZ_Malware_Deteccao

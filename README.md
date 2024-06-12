@@ -50,16 +50,6 @@ Given the dataset's depth, enhancements to the ADBuilder tool were necessary, no
 
 The [VirusTotal API](https://developers.virustotal.com/reference/overview) is a crucial tool in this dataset's creation, known for its prowess in detecting suspicious files and URLs. Each API request yields a JSON, aiding in categorizing the APK based on its perceived threat.
 
-## Getting Started
-
-1. **Download the Dataset:** https://figshare.com/articles/dataset/MH-100K-Dataset/24328885
-2. **Documentation:** To better understand the data columns and usage, refer to our [official documentation](#).
-3. **Sample Code:** Check our [GitHub repository](https://github.com/Malware-Hunter/MH-100K-dataset) for sample codes on how to process and analyze the dataset.
-
-## Contributing
-
-We value contributions that refine, expand, or improve the dataset. For contribution guidelines, please refer to our [contribution guide](#).
-
 
 ## License 
 This dataset is released under the **CC BY 4.0 (Creative Commons Attribution 4.0 International)**: Esta licença permite que outros usem seu dataset, desde que forneçam atribuição a você como criador. É uma opção relativamente permissiva, mas ainda exige que os usuários atribuam a você a autoria do dataset.
